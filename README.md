@@ -36,7 +36,7 @@
 | 방탈출 결제 배포  | [spring-roomescape-payment](https://github.com/threepebbles/spring-roomescape-payment/tree/step3) | [1단계 - 결제 배포](https://github.com/woowacourse/spring-roomescape-payment/pull/186)<br>[2~4단계 - 결제 배포](https://github.com/woowacourse/spring-roomescape-payment/pull/283)    | [방탈출 결제 배포 프롤로그](https://prolog.techcourse.co.kr/studylogs/4409)  |
 ### 학습 로그
 #### 블로그 기록
-- [컴퓨터 구조, 운영체제 스터디](https://velog.io/@heiler/series/%EC%BB%B4%EA%B5%AC%EC%9B%85-%EC%8A%A4%ED%84%B0%EB%94%94)
+- [컴구웅(컴퓨터 구조 + 운영체제) 스터디](https://velog.io/@heiler/series/%EC%BB%B4%EA%B5%AC%EC%9B%85-%EC%8A%A4%ED%84%B0%EB%94%94)
 - [[Spring Boot] Database Initialization](https://velog.io/@heiler/Database-Initialization)
 - [[Spring Boot] DataSource](https://velog.io/@heiler/%EC%8A%A4%ED%94%84%EB%A7%81-%EB%B6%80%ED%8A%B8-DataSource)
 - [DAO와 Repository](https://velog.io/@heiler/DAO%EC%99%80-Repository)
