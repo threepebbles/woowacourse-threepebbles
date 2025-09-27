@@ -4,21 +4,30 @@
 
 ## 🐣 Level 1 (2025.02.18. ~ 03.31.)
 - 자바 프로그래밍 언어 문법 학습
-- 객체 지향 설계에 대한 학습
-- 단위 테스트, TDD, 리팩터링
+- 객체 지향 설계, 클린 코드에 대한 학습
+- TDD, 리팩터링 경험
 - 가독성 좋은 코드를 작성하는 연습
-- JdbcTemplate을 이용한 DB 연동 경험
+- JdbcTemplate을 이용한 DB 연동
+- 읽은 서적
+  - 개발자가 반드시 정복해야 할 객체 지향과 디자인 패턴
+  - 오브젝트 9장~11장(유연한 설계, 상속과 코드 재사용, 합성과 유연한 설계)
+  - Effective Java 5장(제네릭)
+  - 단위 테스트, 블라디미르 코르코프
 
-| Project | Repository                                                        | Pull Requests                                                                                                                                                                                                                  | 회고(블로그 포스팅)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
-| ------- | ----------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 로또      | [java-lotto](https://github.com/woowacourse/java-lotto)           | [1단계 - 로또](https://github.com/woowacourse/java-lotto/pull/552)</br>[2단계 - 로또](https://github.com/woowacourse/java-lotto/pull/600)                                                                                              |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
-| 출석      | [java-attendance](https://github.com/woowacourse/java-attendance) | [1단계 - 출석](https://github.com/woowacourse/java-attendance/pull/74)</br>[2단계 - 출석](https://github.com/woowacourse/java-attendance/pull/84)                                                                                      | [출석 회고(키워드: TDD)](https://velog.io/@heiler/%EB%A0%88%EB%B2%A81-%EC%B6%9C%EC%84%9D-%EB%82%98%EB%8A%94-TDD%EA%B0%80-%EC%99%9C-%EC%96%B4%EB%A0%A4%EC%9A%B4%EA%B0%80)                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
-| 블랙잭     | [java-blackjack](https://github.com/woowacourse/java-blackjack)   | [1단계 - 블랙잭](https://github.com/woowacourse/java-blackjack/pull/841)</br>[2단계 - 블랙잭(베팅)](https://github.com/woowacourse/java-blackjack/pull/910)</br>[2단계 RE - 블랙잭(베팅)](https://github.com/woowacourse/java-blackjack/pull/930) | [블랙잭 회고(키워드: 상태 패턴, instanceof)](https://velog.io/@heiler/%EB%A0%88%EB%B2%A81-%EB%B8%94%EB%9E%99%EC%9E%AD-%EC%83%81%ED%83%9C-%ED%8C%A8%ED%84%B4-%EB%8F%84%EC%9E%85-instanceof%EB%8A%94-%ED%9D%91%EB%A7%88%EB%B2%95%EC%9D%B4%EB%8B%A4)                                                                                                                                                                                                                                                                                                                                                                                                          |
-| 장기      | [java-janggi](https://github.com/woowacourse/java-janggi)         | [1단계 - 장기](https://github.com/woowacourse/java-janggi/pull/10)</br>[2단계 - 장기](https://github.com/woowacourse/java-janggi/pull/108)</br>[3단계 - 장기](https://github.com/woowacourse/java-janggi/pull/174)                         | [장기 회고(키워드: 상속과 조합, 템플릿 메서드 패턴)](https://velog.io/@heiler/%EB%A0%88%EB%B2%A81-%EC%9E%A5%EA%B8%B0-%EC%99%9C-%EC%83%81%EC%86%8D%EB%B3%B4%EB%8B%A4-%EC%A1%B0%ED%95%A9%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%B4%EC%95%BC-%ED%95%98%EB%82%98%EC%9A%94-feat.-%ED%85%9C%ED%94%8C%EB%A6%BF-%EB%A9%94%EC%84%9C%EB%93%9C-%ED%8C%A8%ED%84%B4)</br> [장기 회고 2부(키워드: 오프라인 모드, 트랜잭션)](https://velog.io/@heiler/%EB%A0%88%EB%B2%A81-%EC%9E%A5%EA%B8%B0-2%EB%B6%80-%EC%98%A4%ED%94%84%EB%9D%BC%EC%9D%B8-%EB%AA%A8%EB%93%9C-%EB%8F%84%EC%9E%85-%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98%EC%9D%B4-%EA%B0%80%EC%A0%B8%EC%95%BC-%ED%95%98%EB%8A%94-%EC%84%B1%EC%A7%88-ACID) |
+| Project | Repository                                                        | Pull Requests                                                                                                                                                                                                                  | 
+| ------- | ----------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | 
+| 로또      | [java-lotto](https://github.com/woowacourse/java-lotto)           | [1단계 - 로또](https://github.com/woowacourse/java-lotto/pull/552)</br>[2단계 - 로또](https://github.com/woowacourse/java-lotto/pull/600)                                                                                              |     
+| 출석      | [java-attendance](https://github.com/woowacourse/java-attendance) | [1단계 - 출석](https://github.com/woowacourse/java-attendance/pull/74)</br>[2단계 - 출석](https://github.com/woowacourse/java-attendance/pull/84)                                                                                      |     
+| 블랙잭     | [java-blackjack](https://github.com/woowacourse/java-blackjack)   | [1단계 - 블랙잭](https://github.com/woowacourse/java-blackjack/pull/841)</br>[2단계 - 블랙잭(베팅)](https://github.com/woowacourse/java-blackjack/pull/910)</br>[2단계 RE - 블랙잭(베팅)](https://github.com/woowacourse/java-blackjack/pull/930) |
+| 장기      | [java-janggi](https://github.com/woowacourse/java-janggi)         | [1단계 - 장기](https://github.com/woowacourse/java-janggi/pull/10)</br>[2단계 - 장기](https://github.com/woowacourse/java-janggi/pull/108)</br>[3단계 - 장기](https://github.com/woowacourse/java-janggi/pull/174)                         |
 ### 학습 로그
 #### 블로그 기록
 - [객체 지향 설계 원칙 SOLID with Example](https://velog.io/@heiler/%EA%B0%9D%EC%B2%B4-%EC%A7%80%ED%96%A5-%EC%84%A4%EA%B3%84-%EC%9B%90%EC%B9%99-SOLID-with-Example)
-- [[이펙티브 자바 5장] 제네릭](https://velog.io/@heiler/5%EC%9E%A5.-%EC%A0%9C%EB%84%A4%EB%A6%AD)
+- [[Java] 제네릭](https://velog.io/@heiler/5%EC%9E%A5.-%EC%A0%9C%EB%84%A4%EB%A6%AD)
+- [출석 회고(키워드: TDD)](https://velog.io/@heiler/%EB%A0%88%EB%B2%A81-%EC%B6%9C%EC%84%9D-%EB%82%98%EB%8A%94-TDD%EA%B0%80-%EC%99%9C-%EC%96%B4%EB%A0%A4%EC%9A%B4%EA%B0%80)
+- [블랙잭 회고(키워드: 상태 패턴, instanceof)](https://velog.io/@heiler/%EB%A0%88%EB%B2%A81-%EB%B8%94%EB%9E%99%EC%9E%AD-%EC%83%81%ED%83%9C-%ED%8C%A8%ED%84%B4-%EB%8F%84%EC%9E%85-instanceof%EB%8A%94-%ED%9D%91%EB%A7%88%EB%B2%95%EC%9D%B4%EB%8B%A4)
+- [장기 회고(키워드: 상속과 조합, 템플릿 메서드 패턴)](https://velog.io/@heiler/%EB%A0%88%EB%B2%A81-%EC%9E%A5%EA%B8%B0-%EC%99%9C-%EC%83%81%EC%86%8D%EB%B3%B4%EB%8B%A4-%EC%A1%B0%ED%95%A9%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%B4%EC%95%BC-%ED%95%98%EB%82%98%EC%9A%94-feat.-%ED%85%9C%ED%94%8C%EB%A6%BF-%EB%A9%94%EC%84%9C%EB%93%9C-%ED%8C%A8%ED%84%B4)
+- [장기 회고 2부(키워드: 오프라인 모드, 트랜잭션)](https://velog.io/@heiler/%EB%A0%88%EB%B2%A81-%EC%9E%A5%EA%B8%B0-2%EB%B6%80-%EC%98%A4%ED%94%84%EB%9D%BC%EC%9D%B8-%EB%AA%A8%EB%93%9C-%EB%8F%84%EC%9E%85-%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98%EC%9D%B4-%EA%B0%80%EC%A0%B8%EC%95%BC-%ED%95%98%EB%8A%94-%EC%84%B1%EC%A7%88-ACID)
 #### 글쓰기
 - [레벨1 글쓰기 미션](https://github.com/threepebbles/woowa-writing/blob/threepebbles/level1.md)
 
@@ -27,6 +36,10 @@
 - 레이어드 아키텍처의 각 계층 별 역할에 대한 고민
 - JPA를 통해 객체 지향 설계를 지키려고 노력한 경험
 - 외부 API(토스페이먼츠 결제 API) 연동 경험
+- 읽은 서적
+  - Good Code, Bad Code
+  - 도메인 주도 개발 시작하기
+  - 혼자 공부하는 컴퓨터 구조 + 운영체제
 
 | Project    | Repository                                                                                        | Pull Requests                                                                                                                                                             | Prolog                                                            |
 | ---------- | ------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- |
@@ -36,7 +49,7 @@
 | 방탈출 결제 배포  | [spring-roomescape-payment](https://github.com/threepebbles/spring-roomescape-payment/tree/step3) | [1단계 - 결제 배포](https://github.com/woowacourse/spring-roomescape-payment/pull/186)<br>[2~4단계 - 결제 배포](https://github.com/woowacourse/spring-roomescape-payment/pull/283)    | [방탈출 결제 배포 프롤로그](https://prolog.techcourse.co.kr/studylogs/4409)  |
 ### 학습 로그
 #### 블로그 기록
-- [컴구웅(컴퓨터 구조 + 운영체제) 스터디](https://velog.io/@heiler/series/%EC%BB%B4%EA%B5%AC%EC%9B%85-%EC%8A%A4%ED%84%B0%EB%94%94)
+- [컴퓨터 구조 + 운영체제 스터디](https://velog.io/@heiler/series/%EC%BB%B4%EA%B5%AC%EC%9B%85-%EC%8A%A4%ED%84%B0%EB%94%94)
 - [[Spring Boot] Database Initialization](https://velog.io/@heiler/Database-Initialization)
 - [[Spring Boot] DataSource](https://velog.io/@heiler/%EC%8A%A4%ED%94%84%EB%A7%81-%EB%B6%80%ED%8A%B8-DataSource)
 - [DAO와 Repository](https://velog.io/@heiler/DAO%EC%99%80-Repository)
