@@ -1,6 +1,6 @@
 <p align="center"><img src="우아한테크코스_black.png" height=100px></p>  
 
-[우아한테크코스](https://woowacourse.github.io/) 학습 내용을 정리한 레포지토리입니다.
+[우아한테크코스](https://woowacourse.github.io/) 과정에서 학습 내용을 정리한 레포지토리입니다.
 
 ## 🐣 Level 1 (2025-02-18 ~ 03-31)
 - 자바 프로그래밍 언어 문법 학습
