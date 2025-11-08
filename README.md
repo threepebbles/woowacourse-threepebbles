@@ -55,4 +55,4 @@
 - [DAO와 Repository](https://velog.io/@heiler/DAO%EC%99%80-Repository)
 - [HTTP Message Structure](https://velog.io/@heiler/HTTP-Message-Structure)
 #### 글쓰기
-- [레벨2 글쓰기 미션](https://github.com/threepebbles/woowa-writing/blob/threepebbles/level2.md)
+- [레벨2 글쓰기 미션](https://github.com/threepebbles/woowa-writing/blob/threepebbles/level2/level2.md)
