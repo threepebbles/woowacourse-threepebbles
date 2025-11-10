@@ -29,7 +29,7 @@
 - [장기 회고(키워드: 상속과 조합, 템플릿 메서드 패턴)](https://velog.io/@heiler/%EB%A0%88%EB%B2%A81-%EC%9E%A5%EA%B8%B0-%EC%99%9C-%EC%83%81%EC%86%8D%EB%B3%B4%EB%8B%A4-%EC%A1%B0%ED%95%A9%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%B4%EC%95%BC-%ED%95%98%EB%82%98%EC%9A%94-feat.-%ED%85%9C%ED%94%8C%EB%A6%BF-%EB%A9%94%EC%84%9C%EB%93%9C-%ED%8C%A8%ED%84%B4)
 - [장기 회고 2부(키워드: 오프라인 모드, 트랜잭션)](https://velog.io/@heiler/%EB%A0%88%EB%B2%A81-%EC%9E%A5%EA%B8%B0-2%EB%B6%80-%EC%98%A4%ED%94%84%EB%9D%BC%EC%9D%B8-%EB%AA%A8%EB%93%9C-%EB%8F%84%EC%9E%85-%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98%EC%9D%B4-%EA%B0%80%EC%A0%B8%EC%95%BC-%ED%95%98%EB%8A%94-%EC%84%B1%EC%A7%88-ACID)
 #### 글쓰기
-- [레벨1 글쓰기 미션](https://github.com/threepebbles/woowa-writing/blob/threepebbles/level1.md)
+- [레벨1 글쓰기 미션](https://github.com/threepebbles/woowa-writing/blob/threepebbles/level1/level1.md) - `레벨1 생활기` 
 
 ## 🐣 Level 2 (2025-04-15 ~ 06-13)
 - Spring 프레임워크 기반으로 웹 어플리케이션 작성하는 경험
@@ -55,4 +55,4 @@
 - [DAO와 Repository](https://velog.io/@heiler/DAO%EC%99%80-Repository)
 - [HTTP Message Structure](https://velog.io/@heiler/HTTP-Message-Structure)
 #### 글쓰기
-- [레벨2 글쓰기 미션](https://github.com/threepebbles/woowa-writing/blob/threepebbles/level2/level2.md)
+- [레벨2 글쓰기 미션](https://github.com/threepebbles/woowa-writing/blob/threepebbles/level2/level2.md) - `개발자형 학습, 욕심 줄이기`, `함께 걸어가기`, `나의 상태 점검하기`
